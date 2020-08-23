@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome! ברוך הבא! Добро пожаловать!
 
-<!--
-**greenpau/greenpau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i:
+- [x] love programming and tinkering with technology! :heart:
+- [x] am a husband :bear: and a father to :girl: :girl: :girl:!
+- [x] am fluent in :us: :ru: :israel:
+- [x] was born in Kazan, Russia
+- [x] live in New York
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+my favorite:
+- [x] programming languages: Golang and Python
+- [x] monitoring stack: Prometheus, Grafana, Elasticsearch
+- [x] web server: Caddyserver
+- [x] web framework: React.js, Javascript
