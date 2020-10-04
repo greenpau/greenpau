@@ -54,7 +54,7 @@ C# Project:
 * [RemedySync](https://github.com/greenpau/RemedySync): Remedy API Client
 
 Favorite Stack:
-- [x] programming languages: Golang and Python
+- [x] programming languages: Golang, Python, Javascript
 - [x] monitoring stack: Prometheus, Grafana, Elasticsearch
 - [x] web server: Caddyserver
-- [x] web framework: React.js, Javascript
+- [x] web dev framework: Flutter, React.js
