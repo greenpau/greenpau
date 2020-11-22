@@ -38,6 +38,8 @@ Golang Projects:
 * [network_exporter](https://github.com/greenpau/network_exporter): Prometheus Exporter for Networking, e.g. Cisco NX OS
 * [gosplunk](https://github.com/greenpau/gosplunk): Splunk's HTTP Event Collector client library
 * [ovsdb](https://github.com/greenpau/ovsdb): OVSDB Management Protocol (RFC 7047) Client Library
+* [go-netskope](https://github.com/greenpau/go-netskope): Netskope API Client Library
+* [go-proofpoint](https://github.com/greenpau/go-proofpoint): Proofpoint API Client Library
 
 Python Projects:
 * [pycherwell](https://github.com/greenpau/pycherwell): Unofficial Python Cherwell REST API library
