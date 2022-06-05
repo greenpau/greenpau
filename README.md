@@ -21,10 +21,9 @@ I am a hands-on engineering manager and subject-matter expert specializing in pr
 </div>
 
 Golang Projects:
+* [caddy-security](https://github.com/greenpau/caddy-security): 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐
 * [versioned](https://github.com/greenpau/versioned): Simplified package metadata management for Go packages
-* [go-identity](https://github.com/greenpau/go-identity): In-memory database for managing user identities
-* [caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal): Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0, SAML Authentication
-* [caddy-auth-jwt](https://github.com/greenpau/caddy-auth-jwt): JWT Authorization Plugin for Caddy v2
+* [caddy-git](https://github.com/greenpau/caddy-trace): Git Plugin for Caddy v2
 * [caddy-trace](https://github.com/greenpau/caddy-trace): Request Debugging Middleware Plugin for Caddy v2
 * [go-redfish-api-idrac](https://github.com/greenpau/go-redfish-api-idrac): iDRAC Redfish API client library
 * [go-ansible-db](https://github.com/greenpau/go-ansible-db): Ansible Inventory and Vault management client library written in Go
